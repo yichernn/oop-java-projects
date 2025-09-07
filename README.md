@@ -3,7 +3,7 @@
 A Java-based application developed as part of my coursework at Asia Pacific University (CT038-3-2-OODJ – Object Oriented Development with Java).  
 This project automates the purchase order management process for **Omega Wholesale Sdn Bhd (OWSB)**, a wholesaler based in Kuala Lumpur.  
 
-## 📌 Project Overview
+## Project Overview
 As OWSB expands, manual purchase order processing became inefficient and error-prone.  
 This system was designed to streamline the workflow from **Purchase Requisition (PR)** to **Purchase Order (PO)** using **Object-Oriented Programming (OOP) principles** in Java.  
 
